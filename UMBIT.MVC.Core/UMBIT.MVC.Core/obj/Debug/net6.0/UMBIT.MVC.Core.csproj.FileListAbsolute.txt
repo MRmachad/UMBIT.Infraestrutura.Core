@@ -1,0 +1,12 @@
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.deps.json
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.dll
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.pdb
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.csproj.AssemblyReference.cache
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.AssemblyInfoInputs.cache
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.AssemblyInfo.cs
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.csproj.CoreCompileInputs.cache
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.dll
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\refint\UMBIT.MVC.Core.dll
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.pdb
+D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\ref\UMBIT.MVC.Core.dll
