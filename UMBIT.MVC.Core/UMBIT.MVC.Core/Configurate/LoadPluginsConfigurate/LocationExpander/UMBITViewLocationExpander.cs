@@ -30,10 +30,16 @@ namespace UMBIT.MVC.Core.Configurate.LocationExpander
 
         public void PopulateValues(ViewLocationExpanderContext context)
         {
-            string value = context.ActionContext.RouteData?.Values["modulo"]?.ToString();
-            if (!string.IsNullOrEmpty(value))
+            var routeValue = context.ActionContext.RouteData.Values
+                        .Where(m => m.Key.Contains("RV_"));
+
+            string text = routeValue.Any() ?
+                          routeValue.Single().Value.ToString() :
+                          null;
+
+            if (!string.IsNullOrEmpty(text))
             {
-                context.Values.Add("modulo", value);
+                context.Values.Add(routeValue.Single().Key, text);
             }
         }
     }

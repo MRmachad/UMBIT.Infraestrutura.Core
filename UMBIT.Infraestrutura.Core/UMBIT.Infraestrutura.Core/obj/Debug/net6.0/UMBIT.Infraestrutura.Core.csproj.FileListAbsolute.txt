@@ -10,3 +10,15 @@ D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBI
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\refint\UMBIT.Infraestrutura.Core.dll
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\ref\UMBIT.Infraestrutura.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.deps.json
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.csproj.AssemblyReference.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.AssemblyInfoInputs.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.AssemblyInfo.cs
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.csproj.CoreCompileInputs.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\refint\UMBIT.Infraestrutura.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\ref\UMBIT.Infraestrutura.Core.dll
