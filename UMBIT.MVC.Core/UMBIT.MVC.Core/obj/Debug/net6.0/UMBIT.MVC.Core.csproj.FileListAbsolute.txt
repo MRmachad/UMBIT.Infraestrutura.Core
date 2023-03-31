@@ -10,3 +10,15 @@ D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\refint\UMBIT.MVC.Core.dll
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.pdb
 D:\Dev\ByMySelf\Pessoal\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\ref\UMBIT.MVC.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.deps.json
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\bin\Debug\net6.0\UMBIT.MVC.Core.pdb
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.csproj.AssemblyReference.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.AssemblyInfoInputs.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.AssemblyInfo.cs
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.csproj.CoreCompileInputs.cache
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\refint\UMBIT.MVC.Core.dll
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\UMBIT.MVC.Core.pdb
+C:\Users\macha\OneDrive\Documentos\Dev\UMBIT.Infraestrutura.Core\UMBIT.MVC.Core\UMBIT.MVC.Core\obj\Debug\net6.0\ref\UMBIT.MVC.Core.dll
