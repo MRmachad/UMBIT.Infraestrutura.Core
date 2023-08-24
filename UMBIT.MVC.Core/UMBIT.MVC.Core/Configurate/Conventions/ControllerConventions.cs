@@ -7,14 +7,26 @@ namespace UMBIT.MVC.Core.Conventions
 {
     public class ControllerConventions : IControllerModelConvention
     {
+        private string Area;
+        private string BaseNameSpace;
+        public ControllerConventions(string area, string baseNameSpace)
+        {
+            this.Area = area;
+            this.BaseNameSpace = baseNameSpace;
+        }
         public void Apply(ControllerModel controller)
         {
-            var rota = controller.ControllerType.Assembly.GetName().Name.Replace('.', '-').ToString() + "/[controller]";
+            if (controller.ControllerType.Assembly.GetName().Name == this.BaseNameSpace)
+            {
+                var rota = this.Area + "/[controller]";
 
-            if (!(controller.Selectors.Where(m => m.AttributeRouteModel != null && m.AttributeRouteModel.Template == rota).Any() ))
-                controller.Selectors.Add(new SelectorModel() {
-                    AttributeRouteModel = new AttributeRouteModel(new RouteAttribute(rota))
-                });
+                if (!(controller.Selectors.Where(m => m.AttributeRouteModel != null && m.AttributeRouteModel.Template == rota).Any()))
+                    controller.Selectors.Add(new SelectorModel()
+                    {
+                        AttributeRouteModel = new AttributeRouteModel(new RouteAttribute(rota))
+                    });
+            }
+
         }
     }
 

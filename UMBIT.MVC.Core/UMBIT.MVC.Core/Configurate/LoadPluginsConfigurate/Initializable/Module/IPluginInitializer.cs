@@ -1,9 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace UMBIT.MVC.Core.Configurate.Initializable
+namespace UMBIT.MVC.Core.Configurate.LoadPluginsConfigurate.Initializable.Module
 {
 
-    public interface IModuleInitializer
+    public interface IPluginInitializer
     {
         void Init(IServiceCollection serviceCollection);
     }

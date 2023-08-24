@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj": {}
+    "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj": {
+    "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
+        "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
         "projectName": "UMBIT.Infraestrutura.Core",
-        "projectPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
+        "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
         "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macha\\OneDrive\\Documentos\\Dev\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\obj\\",
+        "outputPath": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

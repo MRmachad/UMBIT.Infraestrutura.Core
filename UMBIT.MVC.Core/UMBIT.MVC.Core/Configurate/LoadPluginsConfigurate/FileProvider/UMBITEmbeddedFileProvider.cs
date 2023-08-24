@@ -13,27 +13,21 @@ namespace UMBIT.MVC.Core.Configurate.FileProvider
     public class UMBITEmbeddedFileProvider : IFileProvider
     {
         private static readonly char[] _caracteresInvalidos = Path.GetInvalidFileNameChars()
-           .Where(c => c != '/' && c != '\\').ToArray();
+            .Where(c => c != '/' && c != '\\').ToArray();
 
-        private readonly string Plugin;
         private readonly Assembly PluginAssembly;
         private readonly string BaseNamespace;
         private readonly DateTimeOffset UltimaModificacao;
 
-        public UMBITEmbeddedFileProvider(Assembly assembly, string plugin) : this(assembly, assembly?.GetName()?.Name, plugin)
-        {
 
-        }
-
-        public UMBITEmbeddedFileProvider(Assembly assembly, string baseNamespace, string plugin)
+        public UMBITEmbeddedFileProvider(Assembly assembly)
         {
             if (assembly == null)
             {
                 throw new ArgumentNullException("assembly");
             }
 
-            Plugin = plugin;
-            BaseNamespace = string.IsNullOrEmpty(baseNamespace) ? string.Empty : baseNamespace + ".";
+            BaseNamespace = assembly.GetName().Name;
             PluginAssembly = assembly;
 
             UltimaModificacao = DateTimeOffset.UtcNow;
@@ -92,13 +86,13 @@ namespace UMBIT.MVC.Core.Configurate.FileProvider
 
             var caminhoArquivo = subpath;
 
-            if (caminhoArquivo.StartsWith($"/{Plugin}/", StringComparison.Ordinal))
+            if (caminhoArquivo.StartsWith($"/{BaseNamespace}/", StringComparison.Ordinal))
             {
-                caminhoArquivo = caminhoArquivo.Substring(Plugin.Length + 2);
+                caminhoArquivo = caminhoArquivo.Substring(BaseNamespace.Length + 2);
             }
-            else if (caminhoArquivo.StartsWith($"{Plugin}/", StringComparison.Ordinal))
+            else if (caminhoArquivo.StartsWith($"{BaseNamespace}/", StringComparison.Ordinal))
             {
-                caminhoArquivo = caminhoArquivo.Substring(Plugin.Length + 1);
+                caminhoArquivo = caminhoArquivo.Substring(BaseNamespace.Length + 1);
             }
             else
             {
@@ -106,7 +100,7 @@ namespace UMBIT.MVC.Core.Configurate.FileProvider
             }
 
             var builder = new StringBuilder(BaseNamespace.Length + subpath.Length);
-            builder.Append(BaseNamespace);
+            builder.Append(BaseNamespace + ".");
             builder.Append(caminhoArquivo);
 
             for (var i = BaseNamespace.Length; i < builder.Length; i++)
