@@ -16,11 +16,11 @@ namespace UMBIT.MVC.Core.Configurate.LoadPluginsConfigurate.Initializable.Module
         public RecursoInfo[] RecursosDoModulo { get; private set; }
 
         protected ModuloInfo(int identificador, string descricao, string icone, params RecursoInfo[] recursos)
-        {
-            Identificador = identificador;
-            Descricao = descricao;
-            Icone = icone;
-            RecursosDoModulo = recursos;
+		{
+			Icone = icone;
+			Descricao = descricao;
+			RecursosDoModulo = recursos;
+			Identificador = identificador;
         }
 
         public static IEnumerable<Type> ObtenhaFonteDeModulos(string assembly)

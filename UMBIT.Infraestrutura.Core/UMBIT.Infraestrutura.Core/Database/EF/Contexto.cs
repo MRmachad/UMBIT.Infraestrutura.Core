@@ -1,23 +1,25 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using UMBIT.Infraestrutura.Core.Entidade;
+using UMBIT.Infraestrutura.Core.Utilitarios;
 
 namespace UMBIT.Infraestrutura.Core.Database.EF
 {
 
     public class DataContext : DbContext
     {
-        private PluginsInfo PluginsInfo;
-        public DataContext(DbContextOptions<DataContext> options, PluginsInfo pluginsInfo) : base(options)
+        private List<Plugin> PluginsInfo;
+        public DataContext(DbContextOptions<DataContext> options, List<Plugin> pluginsInfo) : base(options)
         {
             this.PluginsInfo = pluginsInfo;
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            foreach (var plugin in PluginsInfo.Plugins)
+            foreach (var plugin in PluginsInfo)
             {
-                var assembly = plugin.LoadAssembly(plugin.ProjetoInfraDataPath);
+                var assembly = AssemblyUtils.LoadAssembly(plugin.ProjetoInfraDataPath);
 
                 Console.WriteLine("AQUI ----" + plugin.ProjetoInfraData);
                 try

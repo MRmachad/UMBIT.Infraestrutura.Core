@@ -576,19 +576,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\macha\\.nuget\\packages\\": {}
+    "C:\\Users\\LeonardoSilva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
+      "projectUniqueName": "D:\\Dev\\_ByMySelf\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
       "projectName": "UMBIT.Infraestrutura.Core",
-      "projectPath": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
-      "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\_Pessoal\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\obj\\",
+      "projectPath": "D:\\Dev\\_ByMySelf\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core.csproj",
+      "packagesPath": "C:\\Users\\LeonardoSilva\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\_ByMySelf\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\UMBIT.Infraestrutura.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LeonardoSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -635,7 +635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -34,3 +34,15 @@ D:\Dev\_Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infrae
 D:\Dev\_Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\refint\UMBIT.Infraestrutura.Core.dll
 D:\Dev\_Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
 D:\Dev\_Pessoal\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\ref\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.deps.json
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\bin\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.csproj.AssemblyReference.cache
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.AssemblyInfoInputs.cache
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.AssemblyInfo.cs
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.csproj.CoreCompileInputs.cache
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\refint\UMBIT.Infraestrutura.Core.dll
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\UMBIT.Infraestrutura.Core.pdb
+D:\Dev\_ByMySelf\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\UMBIT.Infraestrutura.Core\obj\Debug\net6.0\ref\UMBIT.Infraestrutura.Core.dll
